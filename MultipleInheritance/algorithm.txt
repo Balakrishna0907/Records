@@ -1,29 +1,29 @@
 Start
 
-Create class Engine
+Step 1 - Create class Engine
 
-Declare engineCC
+Step 2 - Declare engineCC
 
-Define function getEngineInfo() to take input for engine capacity
+Step 3 - Define function getEngineInfo() to take input for engine capacity
 
-Create class Body
+Step 4 - Create class Body
 
-Declare color and type
+Step 5 - Declare color and type
 
-Define function getBodyInfo() to take input for color and body type
+Step 6 - Define function getBodyInfo() to take input for color and body type
 
-Create class Car that inherits from Engine and Body
+Step 7 - Create class Car that inherits from Engine and Body
 
-Define function showDetails() to display all vehicle info
+Step 8 - Define function showDetails() to display all vehicle info
 
-In main() function
+Step 9 - In main() function
 
-Create an object of Car
+Step 10 - Create an object of Car
 
-Call getEngineInfo() using the object
+Step 11 - Call getEngineInfo() using the object
 
-Call getBodyInfo() using the same object
+Step 12 - Call getBodyInfo() using the same object
 
-Call showDetails() to display the collected details
+Step 13 - Call showDetails() to display the collected details
 
 End
