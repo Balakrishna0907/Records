@@ -1,0 +1,8 @@
+Step 1: Start the program
+Step 2: Create a class Sample with data members a and b
+Step 3: Define setData(int a, int b) member function → Use this->a = a and this->b = b to assign values
+Step 4: Define display() function to print the values of a and b
+Step 5: In main(), create an object obj of class Sample
+Step 6: Call obj.setData(10, 20)
+Step 7: Call obj.display() to show stored values
+Step 8: Stop the program
