@@ -1,3 +1,4 @@
+Algorithm for Inline Function
 Step 1: Start
 Step 2: Define an inline function square(int n) that returns n * n.
 Step 3: In main(), declare an integer variable num.
