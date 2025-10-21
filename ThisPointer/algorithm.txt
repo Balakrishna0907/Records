@@ -1,3 +1,4 @@
+Algorithm for This Pointer
 Step 1: Start the program
 Step 2: Create a class Sample with data members a and b
 Step 3: Define setData(int a, int b) member function → Use this->a = a and this->b = b to assign values
