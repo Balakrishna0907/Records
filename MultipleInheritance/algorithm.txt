@@ -1,16 +1,26 @@
-Start
-Step 1 - Create class Engine
-Step 2 - Declare engineCC
-Step 3 - Define function getEngineInfo() to take input for engine capacity
-Step 4 - Create class Body
-Step 5 - Declare color and type
-Step 6 - Define function getBodyInfo() to take input for color and body type
-Step 7 - Create class Car that inherits from Engine and Body
-Step 8 - Define function showDetails() to display all vehicle info
-Step 9 - In main() function
-Step 10 - Create an object of Car
-Step 11 - Call getEngineInfo() using the object
-Step 12 - Call getBodyInfo() using the same object
-Step 13 - Call showDetails() to display the collected details
-End
+Step 1: Start the program.
 
+Step 2: Define the base class Engine
+  → Declare a protected data member engineCC (integer).
+  → Define a public member function getEngineInfo() that:
+   • Displays: "Enter Engine Capacity (in CC):"
+   • Accepts user input for engineCC.
+
+Step 3: Define the base class Body
+  → Declare protected data members color and type (string).
+  → Define a public member function getBodyInfo() that:
+   • Displays: "Enter Vehicle Color:" and takes input for color.
+   • Displays: "Enter Body Type (SUV/Sedan/Hatchback/etc):" and takes input for type.
+
+Step 4: Define the derived class Car that inherits publicly from both Engine and Body.
+  → Define a public member function showDetails() that:
+   • Displays "--- Vehicle Information ---"
+   • Displays engineCC, color, and type.
+
+Step 5: In the main() function:
+  1. Create an object obj of class Car.
+  2. Call obj.getEngineInfo() to input engine details.
+  3. Call obj.getBodyInfo() to input body details.
+  4. Call obj.showDetails() to display all vehicle details.
+
+Step 6: End the program.
