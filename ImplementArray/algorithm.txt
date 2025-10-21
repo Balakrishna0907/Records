@@ -1,3 +1,4 @@
+Algorithm for Implement Array
 Step 1: Start
 Step 2: Declare an integer array arr[100] and integer variable n
 Step 3: Read the number of elements n
